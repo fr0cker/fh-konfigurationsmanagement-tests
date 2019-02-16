@@ -3,7 +3,7 @@ if (5 < 10) {
     }
 
     for(int i = 0;i < 30; i++) {
-        System.out.println(i + " - counter");
+        System.out.println(i + " - counter of iterations");
     }
 
 # my new line
